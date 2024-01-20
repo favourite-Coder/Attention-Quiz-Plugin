@@ -1,0 +1,20 @@
+# Don't Ignore
+
+/*
+!/.gitignore
+!/src/
+!/index.php/
+
+#  Ignore Files
+/node_modules/
+/package-lock.json/
+
+
+
+
+
+
+
+
+
+
