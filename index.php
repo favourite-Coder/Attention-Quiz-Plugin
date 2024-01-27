@@ -2,9 +2,13 @@
 
 /*
 plugin Name: Attention Quiz
-Description: Give your readers a multiple choice question.
+Description: 
+Manage engaging quizzes effortlessly with the Attention Quiz Plugin 
+for WordPress. Admins can create questions, set options, and mark correct answers 
+with a star. Customize the quiz background color with an easy-to-use color picker
+
 Version: 1.0
-Author: Favour
+Author: Favour Gabriel
 Author URI: 
 
 Text Domain: wcpdomain

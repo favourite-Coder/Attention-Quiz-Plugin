@@ -4,6 +4,8 @@
 !/.gitignore
 !/src/
 !/index.php/
+!/screenshots/
+!/LICENSE.md
 
 #  Ignore Files
 /node_modules/
