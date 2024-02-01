@@ -26,7 +26,7 @@ Manage engaging quizzes effortlessly with the Attention Quiz Plugin for WordPres
 - React (for frontend interactivity)
 - CSS
 - HTML
-- Framework
+- node.js
 
 ## Screenshots
 
